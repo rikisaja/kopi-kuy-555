@@ -1,0 +1,66 @@
+{
+    "arabica": [
+        {
+            "foto": "images\\produk\\esteh.webp",
+            "nama": "Es Teh Manis",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.tokopedia.com/nanda4408/rb001-es-teh-manis-ori-30-m-l"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://img.freepik.com/free-photo/top-view-set-ice-cream-cones-with-chocolate_23-2148425392.jpg",
+            "nama": "Ice Cream",
+            "size": "100 Gram",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+        }
+    ],
+    "makanan": [
+        {
+            "nama": "Nama produk",
+            "size": "100ml",
+            "harga": "10.000",
+            "link": "https://www.tokopedia.com/jjroyalcoffee/coffeekopi-jj-royal-100-pure-luwak-ground-tin-100g",
+            "foto": "images/produk/product_kopi_susu.jpg"
+        },
+        {
+            "nama": "Mie ayam",
+            "size": "100 ml",
+            "harga": "10.000",
+            "link": "#",
+            "foto": "https://img.kurio.network/Xr7GD_ySxqB5vnupRPihpEH9ipw=/1200x1200/filters:quality(80)/https://kurio-img.kurioapps.com/21/12/01/c0002ce2-2ee1-4f6e-aa6a-ac6aa9387e01.jpe"
+        }
+    ]
+}
